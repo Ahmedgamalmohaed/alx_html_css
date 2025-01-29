@@ -1,3 +1,4 @@
-#FF6565
-opacity: 0.9
-https://www.fontsquirrel.com/fonts/source-sans-pro
+@media (max-width: 480 px) {
+.header_title {
+fornt-size:1.5rem;
+}
